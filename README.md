@@ -6,5 +6,5 @@ CLI game with mad libs. You can create your own mad libs templates by wrapping t
 **version** 0.1.0  <br>
 3/7/2022 Initiated
 ## PR
- [pull Requests](https://github.com/joud-alnsour/madlib-cli/pulls)
+ [pull Requests](https://github.com/joud-alnsour/madlib-cli/pull/1)
  
